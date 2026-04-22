@@ -55,10 +55,10 @@ import { AnimationService } from '../services/animation.service';
             <div class="p-6">
               <h3 class="text-2xl font-bold text-white mb-3">Tally</h3>
               <p class="text-secondary mb-4">
-                Master accounting software Tally ERP. Learn bookkeeping, GST compliance, and financial management with hands-on practice.
+                Master accounting software Tally Prime. Learn bookkeeping, GST compliance, and financial management with hands-on practice.
               </p>
               <div class="space-y-2 mb-6 text-sm text-secondary">
-                <p><span class="text-accent font-semibold">Duration:</span> 2 Months</p>
+                <p><span class="text-accent font-semibold">Duration:</span> 3 Months</p>
                 <p><span class="text-accent font-semibold">Level:</span> Beginner to Intermediate</p>
                 <p><span class="text-accent font-semibold">Certificate:</span> Recognized</p>
               </div>
@@ -77,12 +77,12 @@ import { AnimationService } from '../services/animation.service';
               <span class="text-6xl">💻</span>
             </div>
             <div class="p-6">
-              <h3 class="text-2xl font-bold text-white mb-3">Basic Computer</h3>
+              <h3 class="text-2xl font-bold text-white mb-3">Kid's Computer</h3>
               <p class="text-secondary mb-4">
                 Perfect for absolute beginners. Learn computer fundamentals, Windows OS, keyboard shortcuts, and basic troubleshooting.
               </p>
               <div class="space-y-2 mb-6 text-sm text-secondary">
-                <p><span class="text-accent font-semibold">Duration:</span> 1 Month</p>
+                <p><span class="text-accent font-semibold">Duration:</span> 2 Month</p>
                 <p><span class="text-accent font-semibold">Level:</span> Beginner</p>
                 <p><span class="text-accent font-semibold">Certificate:</span> Yes</p>
               </div>
@@ -114,7 +114,7 @@ import { AnimationService } from '../services/animation.service';
                 href="tel:7734922886"
                 class="block w-full bg-accent text-primary py-3 rounded-lg font-bold text-center hover:bg-yellow-400 transition-smooth transform hover:scale-105"
               >
-                Enroll Now
+                Comming Soon
               </a>
             </div>
           </div>
@@ -130,7 +130,7 @@ import { AnimationService } from '../services/animation.service';
                 Become an Excel expert. Learn formulas, pivot tables, data analysis, and automation techniques for business professionals.
               </p>
               <div class="space-y-2 mb-6 text-sm text-secondary">
-                <p><span class="text-accent font-semibold">Duration:</span> 6 Weeks</p>
+                <p><span class="text-accent font-semibold">Duration:</span> 2 month</p>
                 <p><span class="text-accent font-semibold">Level:</span> Intermediate</p>
                 <p><span class="text-accent font-semibold">Certificate:</span> Yes</p>
               </div>
@@ -154,7 +154,7 @@ import { AnimationService } from '../services/animation.service';
                 Introduction to web development. Learn HTML, CSS, and basic web design principles to create your first website.
               </p>
               <div class="space-y-2 mb-6 text-sm text-secondary">
-                <p><span class="text-accent font-semibold">Duration:</span> 2 Months</p>
+                <p><span class="text-accent font-semibold">Duration:</span> 4 Months</p>
                 <p><span class="text-accent font-semibold">Level:</span> Beginner</p>
                 <p><span class="text-accent font-semibold">Certificate:</span> Yes</p>
               </div>
